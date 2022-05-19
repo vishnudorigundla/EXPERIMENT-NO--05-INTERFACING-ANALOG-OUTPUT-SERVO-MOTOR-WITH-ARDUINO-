@@ -1,8 +1,8 @@
 # EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
 
 ### AIM
-To interface an Analog output (servo motor) and modify the angular displacement of the servo using PWM signal .
-COMPONENTS REQUIRED:
+To interface an Analog output with ardunio and servo motor.
+# COMPONENTS REQUIRED:
 1.	Servo motor of choice (9v is preferred )
 2.	1 KΩ resistor 
 3.	Arduino Uno 
@@ -47,7 +47,7 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 
 
-CIRCUIT DIAGRAM
+# CIRCUIT DIAGRAM
  
  
  ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
@@ -98,11 +98,12 @@ void loop()
 ![servo](https://user-images.githubusercontent.com/94175324/169292868-1be4963c-41e5-4765-9839-8771f2d39e39.png)
 
 
+![S](https://user-images.githubusercontent.com/94175324/169293603-9caa317e-0bbf-419c-8491-b1f9a2b44ff2.png)
 
 
 
 
 
 
-### RESULTS: 
-Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
+# RESULT: 
+Thus, interfacing of analog output is completed sucessfully with thinkercad software.
