@@ -2,7 +2,7 @@
 
 ### AIM
 To interface an Analog output with ardunio and servo motor.
-# COMPONENTS REQUIRED:
+### COMPONENTS REQUIRED:
 1.	Servo motor of choice (9v is preferred )
 2.	1 KΩ resistor 
 3.	Arduino Uno 
@@ -47,7 +47,7 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 
 
-# CIRCUIT DIAGRAM
+### CIRCUIT DIAGRAM
  
  
  ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
