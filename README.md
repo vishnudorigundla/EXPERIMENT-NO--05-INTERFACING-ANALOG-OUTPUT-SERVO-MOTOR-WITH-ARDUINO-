@@ -67,8 +67,35 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
- 
+ ```
+ Developed By : D.vishnu vardhan reddy
+ Reference number :212221230023
+ ```
+ ```
+#include<Servo.h>
+Servo s1;
+void setup()
+{
+  s1.attach(9);
+}
 
+void loop()
+{
+  for (int i=0;i<=100;i+=1)
+  {s1.write(120);
+   delay(25);
+  }
+  
+   for (int i=180; i>=0;i-=1)
+   {s1.write(i);
+   delay(25);
+  }
+}
+ ```
+
+# OUTPUT  :
+
+![servo](https://user-images.githubusercontent.com/94175324/169292868-1be4963c-41e5-4765-9839-8771f2d39e39.png)
 
 
 
